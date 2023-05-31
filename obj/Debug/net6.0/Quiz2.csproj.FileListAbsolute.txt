@@ -1,0 +1,45 @@
+C:\Repos\Quiz\Quiz2\bin\Debug\net6.0\Quiz2.exe
+C:\Repos\Quiz\Quiz2\bin\Debug\net6.0\Quiz2.deps.json
+C:\Repos\Quiz\Quiz2\bin\Debug\net6.0\Quiz2.runtimeconfig.json
+C:\Repos\Quiz\Quiz2\bin\Debug\net6.0\Quiz2.dll
+C:\Repos\Quiz\Quiz2\bin\Debug\net6.0\Quiz2.pdb
+C:\Repos\Quiz\Quiz2\obj\Debug\net6.0\Quiz2.csproj.AssemblyReference.cache
+C:\Repos\Quiz\Quiz2\obj\Debug\net6.0\Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Quiz\Quiz2\obj\Debug\net6.0\Quiz2.AssemblyInfoInputs.cache
+C:\Repos\Quiz\Quiz2\obj\Debug\net6.0\Quiz2.AssemblyInfo.cs
+C:\Repos\Quiz\Quiz2\obj\Debug\net6.0\Quiz2.csproj.CoreCompileInputs.cache
+C:\Repos\Quiz\Quiz2\obj\Debug\net6.0\Quiz2.dll
+C:\Repos\Quiz\Quiz2\obj\Debug\net6.0\refint\Quiz2.dll
+C:\Repos\Quiz\Quiz2\obj\Debug\net6.0\Quiz2.pdb
+C:\Repos\Quiz\Quiz2\obj\Debug\net6.0\Quiz2.genruntimeconfig.cache
+C:\Repos\Quiz\Quiz2\obj\Debug\net6.0\ref\Quiz2.dll
+C:\Users\mustafa bal\Desktop\Quiz2\bin\Debug\net6.0\Quiz2.exe
+C:\Users\mustafa bal\Desktop\Quiz2\bin\Debug\net6.0\Quiz2.deps.json
+C:\Users\mustafa bal\Desktop\Quiz2\bin\Debug\net6.0\Quiz2.runtimeconfig.json
+C:\Users\mustafa bal\Desktop\Quiz2\bin\Debug\net6.0\Quiz2.dll
+C:\Users\mustafa bal\Desktop\Quiz2\bin\Debug\net6.0\Quiz2.pdb
+C:\Users\mustafa bal\Desktop\Quiz2\obj\Debug\net6.0\Quiz2.csproj.AssemblyReference.cache
+C:\Users\mustafa bal\Desktop\Quiz2\obj\Debug\net6.0\Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa bal\Desktop\Quiz2\obj\Debug\net6.0\Quiz2.AssemblyInfoInputs.cache
+C:\Users\mustafa bal\Desktop\Quiz2\obj\Debug\net6.0\Quiz2.AssemblyInfo.cs
+C:\Users\mustafa bal\Desktop\Quiz2\obj\Debug\net6.0\Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\mustafa bal\Desktop\Quiz2\obj\Debug\net6.0\Quiz2.dll
+C:\Users\mustafa bal\Desktop\Quiz2\obj\Debug\net6.0\refint\Quiz2.dll
+C:\Users\mustafa bal\Desktop\Quiz2\obj\Debug\net6.0\Quiz2.pdb
+C:\Users\mustafa bal\Desktop\Quiz2\obj\Debug\net6.0\Quiz2.genruntimeconfig.cache
+C:\Users\mustafa bal\Desktop\Quiz2\obj\Debug\net6.0\ref\Quiz2.dll
+C:\Users\mustafa bal\source\repos\quiz2\bin\Debug\net6.0\Quiz2.exe
+C:\Users\mustafa bal\source\repos\quiz2\bin\Debug\net6.0\Quiz2.deps.json
+C:\Users\mustafa bal\source\repos\quiz2\bin\Debug\net6.0\Quiz2.runtimeconfig.json
+C:\Users\mustafa bal\source\repos\quiz2\bin\Debug\net6.0\Quiz2.dll
+C:\Users\mustafa bal\source\repos\quiz2\bin\Debug\net6.0\Quiz2.pdb
+C:\Users\mustafa bal\source\repos\quiz2\obj\Debug\net6.0\Quiz2.csproj.AssemblyReference.cache
+C:\Users\mustafa bal\source\repos\quiz2\obj\Debug\net6.0\Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa bal\source\repos\quiz2\obj\Debug\net6.0\Quiz2.AssemblyInfoInputs.cache
+C:\Users\mustafa bal\source\repos\quiz2\obj\Debug\net6.0\Quiz2.AssemblyInfo.cs
+C:\Users\mustafa bal\source\repos\quiz2\obj\Debug\net6.0\Quiz2.csproj.CoreCompileInputs.cache
+C:\Users\mustafa bal\source\repos\quiz2\obj\Debug\net6.0\Quiz2.dll
+C:\Users\mustafa bal\source\repos\quiz2\obj\Debug\net6.0\refint\Quiz2.dll
+C:\Users\mustafa bal\source\repos\quiz2\obj\Debug\net6.0\Quiz2.pdb
+C:\Users\mustafa bal\source\repos\quiz2\obj\Debug\net6.0\Quiz2.genruntimeconfig.cache
+C:\Users\mustafa bal\source\repos\quiz2\obj\Debug\net6.0\ref\Quiz2.dll
